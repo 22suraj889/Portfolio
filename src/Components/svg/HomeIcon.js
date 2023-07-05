@@ -4,7 +4,7 @@ const HomeIcon = () => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      class="h-5 w-5"
+      className="h-5 w-5"
       viewBox="0 0 20 20"
       fill="currentColor"
       style={{ width: "25px", height: "25px", cursor: "pointer" }}
