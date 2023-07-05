@@ -1,0 +1,26 @@
+.resume_btn {
+  font-size: 1rem;
+  font-weight: bold;
+  position: fixed;
+  width: 6rem;
+  height: 3rem;
+  background: #bdd3c4;
+  border-radius: 8px;
+  z-index: 100;
+}
+.resume_btn a {
+  text-decoration: none;
+}
+@media screen and (min-width: 951px) {
+  .resume_btn {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .resume_btn {
+    left: 0.5rem;
+    bottom: 0.5rem;
+  }
+}

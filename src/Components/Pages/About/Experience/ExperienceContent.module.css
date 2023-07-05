@@ -1,0 +1,26 @@
+.experience_info {
+  padding: 20px;
+  color: var(--content-dark-light-color);
+  margin-top: 10px;
+  position: relative;
+}
+
+.experience_info__title,
+.experience_info__place,
+.experience_info__skills {
+  margin-top: 10px;
+}
+
+.experience_info::before {
+  content: "";
+}
+
+.experience_info__company {
+  color: var(--font-blue-color);
+}
+
+.hat_icon {
+  position: absolute;
+  left: -55px;
+  background: var(--background-dark-light-color);
+}
