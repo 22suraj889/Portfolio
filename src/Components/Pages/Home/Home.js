@@ -28,7 +28,7 @@ const Home = () => {
               }
               startDelay={900}
               cursorColor="blue"
-              multiText={["Full Stack Developer", "Programmer"]}
+              multiText={["FullStack Developer", "Programmer"]}
               loop={true}
               nextTextDelay={1000}
             />

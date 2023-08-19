@@ -10,10 +10,10 @@ const EducationData = [
   {
     id: 2,
     grade: "Grade XII",
-    date: "April 2016 - May 2017",
+    date: "April 2018 - May 2019",
     school: "St John's Co-Ed School",
     place: "Naini, Prayagraj, Uttar Pradesh, India",
-    marks: "Percentage- 83%",
+    marks: "Percentage- 83.4%",
   },
   {
     id: 3,

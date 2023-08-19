@@ -5,7 +5,7 @@ const Resume = () => {
     <button className={Style["resume_btn"]}>
       <a
         className="button"
-        href="https://drive.google.com/file/d/18cKpkrl5AeytDPj3ph1AlYpsaH2OGNQ5/view?usp=drive_link"
+        href="https://drive.google.com/file/d/11EFYeS1_DttvtEhRferGcUmOn3UwJ1by/view?usp=drive_link"
         rel="noreferrer"
         target="_blank"
       >

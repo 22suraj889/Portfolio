@@ -22,7 +22,7 @@ const Info = () => {
         startDelay={900}
         cursorColor="blue"
         multiText={[
-          "Hi, my name is Suraj Poddar. I'm a FullStack Developer, worked as a Software Developer Intern for more than 10 months . \n I live in Prayagraj City, and I'm currently a final year student pursuing Bachelor's degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology, Bhubaneswar.",
+          "My name is Suraj Poddar, and I hail from Prayagraj, Uttar Pradesh. Currently, I am a final year student pursuing a B.Tech degree in Computer Science from KIIT University, Bhubaneswar. \nI proudly identify as a FullStack Developer and have garnered valuable experience through my tenure as a Software Developer Intern at CuriousJr., a startup, where I contributed for over 10 months.",
         ]}
         nextTextDelay={1000}
         typeSpeed={20}
